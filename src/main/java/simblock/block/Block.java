@@ -15,6 +15,7 @@
  */
 
 package simblock.block;
+import simblock.settings.SimulationConfiguration;
 import simblock.node.Node;
 
 import java.util.*;
