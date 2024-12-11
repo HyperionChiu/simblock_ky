@@ -1,2 +1,2 @@
 # simblock_ky
-simblock后端代码
+simblock——基于ghost拓展
